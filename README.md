@@ -26,3 +26,5 @@ The summary total of non-Vine reviews:
 - Total percent of reviews as 5-star reviews for non-Vine programs = **38.9%**
 
 While there was a much smaller sample size for comparison, there were 10% more 5-star reviews of the total reviews for Amazon Vine programs compared to non-Vine programs. This suggests a positivity bias towards higher reviews for people who are paid to write reviews.
+
+An additional analysis that may help understand any bias is to compare the percent of Vine vs. non-Vine members having bought the item. That is a Y or N in the verified_purchase column.
