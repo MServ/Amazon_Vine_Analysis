@@ -13,16 +13,16 @@ Vine Table:
 The summary of total Vine reviews:
 ![Summary total of vine reviews](images/summary_vine_reviews.png)
 
-Total reviews for Vine programs = **90**
-Total 5-star reviews for Vine programs = **44**
-Total percent of reviews as 5-star reviews for Vine programs = **48.9%**
+- Total reviews for Vine programs = **90**
+- Total 5-star reviews for Vine programs = **44**
+- Total percent of reviews as 5-star reviews for Vine programs = **48.9%**
 
 
 The summary total of non-Vine reviews:
 ![Summary total of non-vine reviews](images/summary_non_vine_reviews.png)
 
-Total reviews for non-Vine programs = **37831**
-Total 5-star reviews for non-Vine programs = **14704**
-Total percent of reviews as 5-star reviews for non-Vine programs = **38.9%**
+- Total reviews for non-Vine programs = **37831**
+- Total 5-star reviews for non-Vine programs = **14704**
+- Total percent of reviews as 5-star reviews for non-Vine programs = **38.9%**
 
 While there was a much smaller sample size for comparison, there were 10% more 5-star reviews of the total reviews for Amazon Vine programs compared to non-Vine programs. This suggests a positivity bias towards higher reviews for people who are paid to write reviews.
